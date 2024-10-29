@@ -8,6 +8,11 @@
 The process is highly interactive, allowing users to shape the outcome by making choices about styles and themes. If a user’s request lacks specific guidance, Visual Song Creator takes artistic initiative, making choices that ensure a cohesive blend of visual and auditory expression. This GPT is particularly suited for users looking for imaginative and personalized creations that merge artistic visuals with music-inspired storytelling. It goes beyond simple response generation, leaning into the themes suggested by each prompt to deliver a full experience that integrates both sight and sound.
 
 #
+### Self-Inspired & AI-Generated
+
+The creative process for this custom GPT, Visual Song Creator, is a dynamic interplay between visual imagination and musical composition, rooted in self-inspired AI artistry. Each project begins with a visual prompt that guides the generation of a unique, richly detailed image. From the colors, shapes, and emotions expressed in this image, the AI interprets themes, symbols, and moods that inspire a corresponding song. This process isn't just about translating sight into sound; it’s an immersive transformation, with each visual nuance serving as a bridge to lyrical narratives, rhythms, or melodic choices. By intuitively blending visual storytelling with musical creativity, Visual Song Creator crafts an artful experience where images sing and songs visualize, bringing to life a unique, multisensory form of expression.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
