@@ -11,6 +11,12 @@ The process is highly interactive, allowing users to shape the outcome by making
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Music Data](https://github.com/sourceduty/Music_Data)
+<br>
+[Song Audio Value](https://github.com/sourceduty/Song_Audio_Value)
+<br>
+[Lyrics Collage](https://github.com/sourceduty/Lyrics_Collage)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
