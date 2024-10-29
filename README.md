@@ -22,6 +22,8 @@ The creative process for this custom GPT, Visual Song Creator, is a dynamic inte
 [Song Audio Value](https://github.com/sourceduty/Song_Audio_Value)
 <br>
 [Lyrics Collage](https://github.com/sourceduty/Lyrics_Collage)
+<br>
+[Lifestyle Story](https://github.com/sourceduty/Lifestyle_Story)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
