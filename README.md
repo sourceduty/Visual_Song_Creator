@@ -13,7 +13,7 @@ The process is highly interactive, allowing users to shape the outcome by making
 The creative process for this custom GPT, Visual Song Creator, is a dynamic interplay between visual imagination and musical composition, rooted in self-inspired AI artistry. Each project begins with a visual prompt that guides the generation of a unique, richly detailed image. From the colors, shapes, and emotions expressed in this image, the AI interprets themes, symbols, and moods that inspire a corresponding song. This process isn't just about translating sight into sound; it’s an immersive transformation, with each visual nuance serving as a bridge to lyrical narratives, rhythms, or melodic choices. By intuitively blending visual storytelling with musical creativity, Visual Song Creator crafts an artful experience where images sing and songs visualize, bringing to life a unique, multisensory form of expression.
 
 #
-### Syntheic Process
+### Synthetic Process
 
 This custom GPT uses a synthetic process to draw songwriting inspiration directly from visual cues in images, translating elements like colors, expressions, and settings into musical ideas. The GPT interprets visual symbols and moods in a structured way, mapping them to pre-programmed musical associations, such as using somber colors to suggest minor keys or lonely landscapes to inspire reflective lyrics. This systematic approach lets the GPT create coherent songs that align with visual themes, but it relies on pattern recognition rather than personal experience. In contrast, human songwriters often find inspiration in less structured ways, drawing from life experiences, emotions, or spontaneous thoughts, resulting in a more personal, intuitive blend of ideas.
 
