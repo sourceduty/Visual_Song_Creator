@@ -15,7 +15,7 @@ The creative process for this custom GPT, Visual Song Creator, is a dynamic inte
 #
 ### Lifestyle Story and Visual Music Creator
 
-The Lifestyle Story and Visual Song Creator custom GPTs, both developed by Sourceduty, share a core similarity in their approach to creative user engagement. Each of these models is designed to enrich user experiences by generating highly personalized content based on a theme—Lifestyle Story focuses on crafting lifestyle narratives, while Visual Song Creator is dedicated to creating custom song lyrics. Both models emphasize storytelling, transforming user inputs into distinct forms of expression that cater to the user's emotional and artistic preferences. Their purpose is to inspire users, using language generation to bring specific ideas or feelings to life in a structured format.
+[Lifestyle Story](https://github.com/sourceduty/Lifestyle_Story) and Visual Song Creator custom GPTs, both developed by Sourceduty, share a core similarity in their approach to creative user engagement. Each of these models is designed to enrich user experiences by generating highly personalized content based on a theme—Lifestyle Story focuses on crafting lifestyle narratives, while Visual Song Creator is dedicated to creating custom song lyrics. Both models emphasize storytelling, transforming user inputs into distinct forms of expression that cater to the user's emotional and artistic preferences. Their purpose is to inspire users, using language generation to bring specific ideas or feelings to life in a structured format.
 
 Another similarity lies in their technical framework. Both models utilize prompt engineering techniques to fine-tune responses, relying on similar architectures to interpret user prompts and generate thematic, coherent outputs. They both operate on predefined structures that guide the type and style of output, ensuring consistency in the quality of generated content. These GPTs leverage the creativity of AI to enable unique, imaginative responses that align with user interests in lifestyle themes or song-like expressions, demonstrating Sourceduty's emphasis on adaptable and context-sensitive language models for a variety of creative applications.
 
@@ -29,8 +29,6 @@ Another similarity lies in their technical framework. Both models utilize prompt
 [Song Audio Value](https://github.com/sourceduty/Song_Audio_Value)
 <br>
 [Lyrics Collage](https://github.com/sourceduty/Lyrics_Collage)
-<br>
-[Lifestyle Story](https://github.com/sourceduty/Lifestyle_Story)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
