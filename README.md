@@ -46,6 +46,8 @@ Additionally, the versatility of this custom GPT allows it to experiment with va
 The inspiration behind integrating DALL-E into this custom GPT lies in blending visual and musical artistry, creating a unique experience that merges the evocative nature of imagery with the emotional depth of music. DALL-E’s ability to produce detailed, imaginative visuals becomes a wellspring for song creation, where each image serves as a narrative or mood foundation for lyrical and instrumental ideas. This approach aims to translate colors, themes, and atmospheres into music, producing songs that resonate with the imagery's essence. By letting DALL-E’s visuals inspire lyrics or melodies, the experience becomes an exploration of multisensory creativity, inviting users to experience art that’s both seen and heard in harmony.
 
 #
+> Alex: "*This is a mysteriously theoretical custom GPT.*"
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
